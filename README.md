@@ -1,8 +1,8 @@
 
   # Interactive Portfolio Creation
 
-  This is a code bundle for Interactive Portfolio Creation. 
 
+  This is a code bundle for Interactive Portfolio Creation. 
   ## Running the code
 
   Run `npm i` to install the dependencies.
