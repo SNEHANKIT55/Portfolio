@@ -1,11 +1,14 @@
+# Portfolio
 
-  # Interactive Portfolio Creation
+This is my personal portfolio built with Vite + React.
 
+## Tech Stack
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
 
-  This is a code bundle for Interactive Portfolio Creation. 
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+## Setup
+```bash
+npm install
+npm run dev
