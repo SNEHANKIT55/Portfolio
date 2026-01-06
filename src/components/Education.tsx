@@ -22,7 +22,7 @@ export function Education() {
       institution: 'MSBSHSE',
       location: 'Pune',
       period: '2022',
-      percentage: 'Percentage: 78.67 / 100',
+      percentage: 'Percentage: 78.67%',
       color: 'from-purple-500 to-pink-500',
     },
     {
