@@ -14,7 +14,7 @@ export function Education() {
       institution: 'MIT Academy of Engineering, Pune',
       location: 'Alandi, Pune',
       period: '2022 - 2026',
-      cgpa: 'CGPA: 7.82 / 10',
+      cgpa: 'CGPA: 8.12 / 10',
       color: 'from-cyan-500 to-blue-500',
     },
     {
@@ -22,7 +22,7 @@ export function Education() {
       institution: 'MSBSHSE',
       location: 'Pune',
       period: '2022',
-      percentage: 'Percentage: 75.67 / 100',
+      percentage: 'Percentage: 78.67 / 100',
       color: 'from-purple-500 to-pink-500',
     },
     {
